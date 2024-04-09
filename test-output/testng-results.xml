@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T10:16:37Z" name="Default suite" finished-at="2024-03-18T10:16:53Z" duration-ms="15445">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T10:16:37Z" name="Default test" finished-at="2024-03-18T10:16:53Z" duration-ms="15445">
+      <class name="SauceDemoSeleniumProject.SauceDemo">
+        <test-method is-config="true" signature="PreRequisites()[pri:0, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:37Z" name="PreRequisites" finished-at="2024-03-18T15:46:45Z" duration-ms="7503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreRequisites -->
+        <test-method is-config="true" signature="ReportConfiguration()[pri:0, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:45Z" name="ReportConfiguration" finished-at="2024-03-18T15:46:45Z" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportConfiguration -->
+        <test-method signature="Login()[pri:1, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:45Z" name="Login" finished-at="2024-03-18T15:46:46Z" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddToCart()[pri:2, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:46Z" name="AddToCart" finished-at="2024-03-18T15:46:46Z" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="GoToCart()[pri:3, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:46Z" name="GoToCart" finished-at="2024-03-18T15:46:47Z" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToCart -->
+        <test-method signature="Checkout()[pri:4, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:47Z" name="Checkout" finished-at="2024-03-18T15:46:47Z" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method signature="CheckOutDetails()[pri:5, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:47Z" name="CheckOutDetails" finished-at="2024-03-18T15:46:48Z" duration-ms="1020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOutDetails -->
+        <test-method signature="ScreenShot()[pri:6, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:48Z" name="ScreenShot" finished-at="2024-03-18T15:46:48Z" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="ReportFlush()[pri:0, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:48Z" name="ReportFlush" finished-at="2024-03-18T15:46:49Z" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportFlush -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:SauceDemoSeleniumProject.SauceDemo@5a2d131d]" started-at="2024-03-18T15:46:49Z" name="TearDown" finished-at="2024-03-18T15:46:53Z" duration-ms="3781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- SauceDemoSeleniumProject.SauceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
